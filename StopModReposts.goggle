@@ -81,7 +81,8 @@ $discard,site=blockminecraft.com
 $discard,site=bnstbns.pro
 $discard,site=borealis.su
 $discard,site=c-raft.ru
-$discard,site=chip.de/downloads
+$discard,site=chip.de
+/downloads
 $discard,site=clubminecraftbr.blogspot.com
 $discard,site=comoinstalarmodsminecraft.com.br
 $discard,site=cooll.pp.ua
@@ -132,7 +133,8 @@ $discard,site=finemine.ru
 $discard,site=fmcpe.com
 $discard,site=for-minecraft.com
 $discard,site=forminecrafters.ru
-$discard,site=fr-minecraft.net/mod-minecraft-
+$discard,site=fr-minecraft.net
+/mod-minecraft-
 $discard,site=free-mods.ru
 $discard,site=freedownloadminecraft.com
 $discard,site=freeminecraftmods.com
@@ -462,7 +464,7 @@ $discard,site=newfastmediasearcherfive.com
 $discard,site=nextminecraft.ru
 $discard,site=nexus-mods.com
 $discard,site=niceminecraft.net
-$discard,site=niinecrraftik.jeclo.pp.ua Paywall
+$discard,site=niinecrraftik.jeclo.pp.ua
 $discard,site=o-crafte.ru
 $discard,site=o-minecraft.ru
 $discard,site=ofminecraft.ru
@@ -503,8 +505,10 @@ $discard,site=proud-portal.ru
 $discard,site=q-craft.ru
 $discard,site=qoobworld.ru
 $discard,site=realmine.net
-$discard,site=reddit.com/r/modpiracy2
-$discard,site=reddit.com/r/modpiracy4
+$discard,site=reddit.com
+/r/modpiracy2
+$discard,site=reddit.com
+/r/modpiracy4
 $discard,site=redserver.su
 $discard,site=resource-pack.com
 $discard,site=resourcepack.info
